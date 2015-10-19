@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=void\ distance()
+comment10.params=x1\ y1\ x2\ y2
+comment10.target=double\ length(int,\ int,\ int,\ int)
+comment11.params=a\ b\ c
+comment11.target=double\ max(double,\ double,\ double)
+comment2.params=x1\ y1\ x2\ y2
+comment2.target=double\ distance(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ roadTrip()
+comment4.params=x1\ y1\ x2\ y2
+comment4.target=double\ diameter(int,\ int,\ int,\ int)
+comment5.params=
+comment5.target=void\ stopTours()
+comment6.params=
+comment6.target=void\ distances()
+comment7.params=x1\ y1\ x2\ y2
+comment7.target=double\ distances(int,\ int,\ int,\ int)
+comment8.params=x\ y\ z
+comment8.target=double\ angle(double,\ double,\ double)
+comment9.params=
+comment9.target=void\ longestTrip()
+numComments=12
